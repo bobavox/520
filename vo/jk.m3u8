@@ -1,0 +1,16 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-ALLOW-CACHE:YES
+#EXT-X-TARGETDURATION:6
+#EXTINF:5.045900,
+http://dy.yuerzhuan.com/cs/000.ts
+#EXTINF:5.000000,
+http://dy.yuerzhuan.com/cs/001.ts
+#EXTINF:5.000000,
+http://dy.yuerzhuan.com/cs/002.ts
+#EXTINF:5.000000,
+http://dy.yuerzhuan.com/cs/003.ts
+#EXTINF:0.033333,
+http://dy.yuerzhuan.com/cs/004.ts
+#EXT-X-ENDLIST
